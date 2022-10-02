@@ -1,0 +1,29 @@
+Nama  : Muhammad Raihan Izharul Haq
+NIM   : 20210040075
+Kelas : TI21F
+
+1. Jelaskan apa yang dimaksud dengan class dan object!
+Jawab :
+Class adalah cetak biru atau kerangka dalam pembuatan program yang merupakan tempat untuk membuat object.
+Object adalah hasil instance atau penciptaan dari sebuah class.
+
+2. Sebutkan dan jelaskan jenis-jenis method!
+Jawab :
+1) Method Overloading di kelas yang sama, yaitu dua atau lebih method di kelas yang sama dengan nama sama namun deklarasi parameter berbeda.
+2) Method Construktor, yaitu method yang dapat digunakan untuk memberikan nilai awal saat objek diciptakan. Tidak memiliki nilai return dan tidak
+boleh ada kata kunci void.
+3) Assesor dan Mutator, yaitu method untuk mengambil nilai yang diprivate.
+4) Construktor Overloading, yaitu method construktor yang ditimpa atau di overload.
+5) Method Overriding di subclass, yaitu method override terhadap method superclass.
+6) Method Biasa Tanpa Parameter, yaitu method tanpa parameter.
+7) Method Berparameter, yaitu method dengan parameter.
+
+3. Berdasarkan gambar berikut ini, jelaskan masing-masing bagian sesuai dengan nomor yang ada!
+1) Class, dengan nama kelas Komputer.
+2) Atribute yang ada di kelas komputer yaitu jenis_komputer, dan merk.
+3) Method setter dengan nama setDataKomputer, dengan inputan jenis, dan merk yang nantinya akan dimasukan ke atribute kelas Komputer.
+4) Method getter dengan nama getJenis, untuk mengambil atribute jenis_komputer.
+5) Method getter dengan nama getMerk, untuk mengambil atribute private merk.
+6) Object, pembuatan object dengan nama mykom dari class Komputer.
+7) Input setter, menset atribute dari object mykom dengan inputan jenis_komputer nya yaitu LAPTOP dan merk nya MACBOOK.
+8) Menampilkan getter, menampilkan jenis komputer dan merk nya.
